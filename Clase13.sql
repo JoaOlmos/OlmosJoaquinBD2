@@ -1,4 +1,4 @@
-
+USE sakila;
 #1
 INSERT INTO customer (store_id, first_name, last_name, email, address_id, active, create_date)
 SELECT 1,'Pepe','Paez','pepemecanico@example.com',
